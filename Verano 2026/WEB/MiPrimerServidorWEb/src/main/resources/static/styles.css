@@ -1,0 +1,63 @@
+body{
+    font-family: Tahoma, vernal, sans-serif;
+    background-color: #f4f4f9 ;
+    color: #333333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color:#0056b3;
+}
+
+
+#formacion{
+    background-color: #fffffff;
+
+    border: 1px solid #dddddd;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+
+}
+
+#sobremi, #habilidades{
+    background-color: fffffff;
+    border: 1px solid #dddddd;
+        padding: 30px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px ;
+
+}
+
+.tabla-bonita{
+    width: 100%;
+    border-collapse:collapse;
+    margin-top: 10px;
+}
+
+
+.tabla-bonita th{
+    border: 1px solid #cccccc;
+    padding:10px;
+    text-align: left;
+}
+
+.tabla-bonita td{
+    border: 2px solid #cccccc;
+    padding:10px;
+    text-align: left;
+}
+
+.tabla-bonita th{
+    background-color: #0056b3;
+    color: white;
+
+
+
+}
+
+
+
