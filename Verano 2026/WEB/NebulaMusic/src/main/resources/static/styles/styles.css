@@ -1,0 +1,43 @@
+/* ==========================================================
+   NÉBULA MUSIC - CÓDIGO BASE (ESTILOS PARA ALUMNOS)
+   ==========================================================
+   Este archivo contiene únicamente la configuración inicial, 
+   reseteo básico y la paleta de colores del proyecto mediante 
+   variables de CSS (:root).
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+:root {
+    --bg-color-dark: #131200;      /* Fondo principal modo oscuro */
+    --text-color-dark: #EDF2F4;    /* Texto principal */
+    --links-color-dark: #EFBDEB;   /* Color normal de enlaces */
+    --links-hover-dark: #8D91C7;   /* Color de enlaces al pasar el mouse */
+    --nav-links: #8d3fd1;          /* Color de enlaces de navegación */
+    --highlight: #EDF67D;          /* Color de acento/resaltados */
+}
+
+/* Reset básico de márgenes, paddings y modelo de caja */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--bg-color-dark);
+    color: var(--text-color-dark);
+    font-family: 'Quicksand', sans-serif;
+    line-height: 1.6;
+}
+
+/* Enlaces base */
+a {
+    color: var(--links-color-dark);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--links-hover-dark);
+}
