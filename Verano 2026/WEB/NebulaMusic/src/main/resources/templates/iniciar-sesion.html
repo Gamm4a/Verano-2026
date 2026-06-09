@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nébula Music - Iniciar Sesión</title>
-    <link rel="stylesheet" href="./styles/styles.css">
+    <link rel="stylesheet" href="../static/styles/styles.css">
 </head>
 <body>
 
     <main class="auth-container">
         <section class="auth-card">
-            <form method="post" action="/autenticator" enctype="application/x-www-form-urlencoded">
+            <form method="post" action="/autentication" enctype="application/x-www-form-urlencoded">
                 <h1>Iniciar Sesión</h1>
                 <div>
                     <label for="correo">Correo Electronico</label>
@@ -28,7 +28,7 @@
 
                 <div>
                     <label for="contrasenia">Contraseña</label>
-                    <input type="password" id="contrasenia" name="contraseñia" placeholder="*****" required>
+                    <input type="password" id="contrasenia" name="contrasenia" placeholder="*****" required>
 
 
                 </div>
@@ -41,6 +41,7 @@
 
             </form>
 
+            <p><strong>¿No tienes cuenta?</strong></p><a href="registro.html"> Registrate Aquí</a>
 
 
         </section>
