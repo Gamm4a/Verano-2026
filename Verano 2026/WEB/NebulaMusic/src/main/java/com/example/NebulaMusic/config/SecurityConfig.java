@@ -15,9 +15,9 @@ public class SecurityConfig {
         http
                 .csrf(csrf -> csrf.disable())
                 .authorizeHttpRequests(auth -> auth
-                        .requestMatchers("/", "/index", "/iniciar-sesion", "/registro").permitAll()
+                        .requestMatchers("/", "/index", "/iniciar-sesion", "/registro", "/error", "/imgs/**").permitAll()
                         .requestMatchers("/crear-cuenta", "/autentication").permitAll()
-                        .requestMatchers("/static/**", "/css/**", "/js/**", "/images/**").permitAll()
+                        .requestMatchers("/static/**","/styles/**", "/css/**", "/js/**", "/images/**").permitAll()
                         .requestMatchers("/", "/index", "/index.html", "/iniciar-sesion",
                                 "/iniciar-sesion.html", "/registro", "/registro.html").permitAll()
                         .anyRequest().authenticated()

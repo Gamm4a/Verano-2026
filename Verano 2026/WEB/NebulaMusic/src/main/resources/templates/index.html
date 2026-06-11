@@ -4,62 +4,84 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nébula Music - Inicio (Código Base)</title>
-    <link rel="stylesheet" href="../static/styles/styles.css">
+    <link rel="stylesheet" href="/styles/styles.css">
 </head>
 <body>
 
-    <!-- MENÚ DE NAVEGACIÓN -->
-    <nav>
-        <a class="logo" href="index.html">
-            <img src="../static/imgs/nebula-03.svg" alt="Logo Nébula" width="100">
-        </a>
-        <ul>
-            <li><a href="index.html">Inicio</a></li>
-            <li><a href="iniciar-sesion.html">Iniciar Sesión</a></li>
-            <li><a href="registro.html">Registrarse</a></li>
-            <li><a href="/cerrar-sesion">Cerrar Sesion</a></li>
-        </ul>
-    </nav>
+<!-- MENÚ DE NAVEGACIÓN -->
+<nav>
+    <a class="logo" href="index.html">
+        <img src="/imgs/nebula-03.svg" alt="Logo Nébula" width="100">
+    </a>
 
-    <!-- CABECERA -->
-    <header class="principal">
-        <img src="../static/imgs/cover.jpg" alt="Cover Nébula" width="100%" height="200" style="object-fit: cover;">
-        <h1>Tu música en la nube y en tu espacio.</h1>
-    </header>
+    <input type="checkbox" id="menu-toggle">
+    <label for="menu-toggle" class="menu-button">
+        <span></span>
+        <span></span>
+        <span></span>
+    </label>
 
-    <!-- CONTENIDO PRINCIPAL -->
-    <main>
-        
-        <!-- SECCIÓN DE NOTICIAS -->
-        <section id="noticias">
-            <h2>Novedades de la Semana</h2>
+    <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="iniciar-sesion.html">Iniciar Sesión</a></li>
+        <li><a href="registro.html">Registrarse</a></li>
+        <li><a href="/cerrar-sesion">Cerrar Sesion</a></li>
+    </ul>
+</nav>
 
-            <!-- Artículo 1 -->
-            <article>
-                <h3>Taylor Swift en su nueva era</h3>
-                <p>El nuevo disco de Taylor, <i>"The life of a showgirl"</i> saldrá a la venta el 3 de octubre.</p>
-            </article>
+<!-- CABECERA -->
+<header class="principal">
+    <img src="/imgs/cover.jpg" alt="Cover Nébula">
+    <h1>Tu música en la <span>nube</span> y en tu <span>espacio</span>.</h1>
+</header>
 
-            <!-- Artículo 2 -->
-            <article>
-                <h3>Oasis</h3>
-                <p>Los hermanos Liam y Noel Gallagher se reencontrarán con sus fans y traerán un setlist espectacular.</p>
-            </article>
+<!-- CONTENIDO PRINCIPAL -->
+<main>
 
-            <!-- Artículo 3 -->
-            <article>
-                <h3>Los Reztos en concierto</h3>
-                <p>Gran éxito en el concierto tributo a Marea en Ciudad Obregón.</p>
-            </article>
+    <!-- SECCIÓN DE NOTICIAS -->
+    <section id="noticias">
 
-        </section>
+        <!-- Tarjeta 1 -->
+        <article>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfGRivZ1CFL4jhQXNbF9phy9h-CASW3TM9UQ&s" alt="Taylor Swift">
+            <div class="content">
+                <div>
+                    <h3>Taylor Swift en su nueva era</h3>
+                    <p>El nuevo disco de Taylor, <i>"The life of a showgirl"</i> saldrá a la venta el 3 de octubre en todas las plataformas digitales.</p>
+                </div>
+            </div>
+        </article>
 
-    </main>
+        <!-- Tarjeta 2 -->
+        <article>
+            <img src="https://media.gq.com.mx/photos/66cdf89fe21e890818a07d6d/4:3/w_2248,h_1686,c_limit/Oasis.jpg" alt="Oasis">
+            <div class="content">
+                <div>
+                    <h3>Oasis: El Reencuentro</h3>
+                    <p>Los hermanos Liam y Noel Gallagher anunciaron su regreso a los escenarios con un setlist histórico para su gira mundial.</p>
+                </div>
+            </div>
+        </article>
 
-    <!-- PIE DE PÁGINA -->
-    <footer>
-        <p>Copyright Nébula 2025.</p>
-    </footer>
+        <!-- Tarjeta 3 -->
+        <article>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU2wpHalZ_btJnPiNpMLziQ2Pcu0BDxxJBVA&s" alt="Marea Tributo">
+            <div class="content">
+                <div>
+                    <h3>Tributo a Marea</h3>
+                    <p>La banda local "Los Reztos" ofreció un espectacular tributo con lleno total en Ciudad Obregón el pasado fin de semana.</p>
+                </div>
+            </div>
+        </article>
+
+    </section>
+
+</main>
+
+<!-- PIE DE PÁGINA -->
+<footer>
+    <p>Copyright Nébula 2025.</p>
+</footer>
 
 </body>
 </html>
