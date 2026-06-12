@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nébula Music - Registro</title>
-    <link rel="stylesheet" href="../static/styles/styles.css">
+    <link rel="stylesheet" href="/styles/styles.css">
 </head>
 <body>
 
@@ -27,7 +27,7 @@
             <form class="auth-form" method="post" action="/crear-cuenta" enctype="application/x-www-form-urlencoded">
                 <h2>Crear Cuenta</h2>
 
-                <div>
+                <div class="form-group">
                     <label for="nombre">Nombre Completo:</label>
                     <input type="text"
                            id="nombre"
@@ -37,7 +37,7 @@
                            minlength="3"
                            maxlength="100">
                 </div>
-                <div>
+                <div class="form-group">
                     <label for="correo">Correo Electronico:</label>
                     <input type="email"
                            id="correo"
@@ -45,7 +45,7 @@
                            placeholder="EmberGUI@gmail.com">
                 </div>
 
-                <div>
+                <div class="form-group">
                     <label for="contrasenia">Contraseña:</label>
                     <input type="password"
                            id="contrasenia"
@@ -55,7 +55,7 @@
                            min="8">
 
                 </div>
-                <div>
+                <div class="form-group">
                     <label for="txt_pseudonimo">Pseudonimo</label>
                     <input type="text" id="txt_pseudonimo"
                            name="txt_pseudonimo"
@@ -76,30 +76,30 @@
                     </div>
                 </div>
 
-                <div>
+                <div class="form-group">
                     <label for="sel_suscripcion">Tipo de Suscripción</label>
                     <select name="sel_suscripcion" id="sel_suscripcion" required>
                         <option value="">--Selecciona una opcion</option>
-                        <option value="Gratis"></option>
+                        <option value="Gratis">Gratuito</option>
                         <option value="premiun_mensual">Premiun Mensual ($99/mes)</option>
                         <option value="premiun_anual">Premiun Anual ($899/mes)</option>
                     </select>
                 </div>
-                <div>
+                <div class="form-group">
                     <label for="fechaNacimiento">Fecha Nacimiento</label>
                     <input type="date" id="fechaNacimiento" name="fechaNacimiento" required>
                 </div>
-                <div>
+                <div class="form-group">
                     <label for="comentarios">Comentarios o Gustos</label>
                     <textarea name="comentarios" id="comentarios" cols="40" rows="4" placeholder="Cuentanos que musica te gusta"></textarea>
                 </div>
 
-                <div>
+                <div class="form-group">
                     <input type="checkbox" required id="terminos" name="chk_terminos" value="Aceptado">
                     <label for="terminos">Acepto los terminos y condiciones</label>
                 </div>
 
-                <div>
+                <div class="form-group">
                     <button type="submit">Registrarse</button>
                     <button type="reset"> Limpiar el Formulario</button>
 
