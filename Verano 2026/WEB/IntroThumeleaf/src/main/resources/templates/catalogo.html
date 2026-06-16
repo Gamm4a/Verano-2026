@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <thead>
+    <tr>
+        <th>Titulo</th>
+        <th>Genero</th>
+        <th>Plataforma</th>
+        <th>Precio</th>
+        <th>Disponibilidad</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="juego:${juegos}">
+        <td th:text="${juego.titulo}"> Juego Generico</td>
+        <td th:text="${juego.genero}"> Juego Generico</td>
+        <td th:text="${juego.plataforma}"> Juego Generico</td>
+        <td th:text="${juego.precio}"> Juego Generico</td>
+        <td th:text="${juego.disponible}"> Juego Generico</td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>
