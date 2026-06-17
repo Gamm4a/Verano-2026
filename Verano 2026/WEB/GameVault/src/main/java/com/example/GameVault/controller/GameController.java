@@ -1,5 +1,8 @@
 package com.example.GameVault.controller;
 import com.example.GameVault.model.Juego;
+import com.example.GameVault.repository.JuegoRepository;
+import com.example.GameVault.service.JuegoService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
@@ -14,10 +17,9 @@ import java.util.UUID;
 
 @Controller
 public class GameController {
+    @Autowired
+    private JuegoService juegoService;
 
-    private static List<Juego> juegosDb = new ArrayList<>();
-    private static long idCounter = 0;
-    private static final String UPLOAD_DIR="src/main/resources/static/uploads/";
 
     @GetMapping("/fragments-demo")
     public String fragmentsDemo() {
@@ -26,7 +28,7 @@ public class GameController {
 
     @GetMapping({"/", "/juegos"})
     public String listarJuegos(Model model) {
-        model.addAttribute("juegos", juegosDb);
+        model.addAttribute("juegos", juegoService.listarTodos());
         return "juegos";
     }
 
@@ -40,29 +42,10 @@ public class GameController {
                                @RequestParam("descripcion") String descripcion,
                                @RequestParam("portada") MultipartFile portada
     ){
-        String nombreArchivo = "default.png";
-
-        if(!portada.isEmpty()){
-            try {
-                Path uploadPath = Paths.get(UPLOAD_DIR);
-                if(!Files.exists(uploadPath)){
-                    Files.createDirectories(uploadPath);
-                }
-
-                nombreArchivo = UUID.randomUUID().toString()+"_"+portada.getOriginalFilename();
-
-                Path filePath = uploadPath.resolve(nombreArchivo);
-
-                Files.copy(portada.getInputStream(), filePath);
-            }catch (IOException e){
-                e.printStackTrace();
-            }
-        }
-
-        Juego nuevoJuego = new Juego(idCounter++, titulo, descripcion, nombreArchivo);
-
-        juegosDb.add(nuevoJuego);
-
+        Juego nuevoJuego = new Juego();
+        nuevoJuego.setTitulo(titulo);
+        nuevoJuego.setDescripcion(descripcion);
+        juegoService.guardarJuego(nuevoJuego, portada);
         return "redirect:/juegos";
     }
 
