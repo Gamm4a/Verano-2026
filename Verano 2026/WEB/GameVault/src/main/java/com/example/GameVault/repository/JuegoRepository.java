@@ -1,6 +1,7 @@
 package com.example.GameVault.repository;
 
 import com.example.GameVault.model.Juego;
+import com.example.GameVault.model.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
@@ -24,7 +25,5 @@ public interface JuegoRepository extends JpaRepository<Juego, Long> {
 
 
 
-
-
-
+    List<Juego> findByUsuarioId(Long usuario);
 }
