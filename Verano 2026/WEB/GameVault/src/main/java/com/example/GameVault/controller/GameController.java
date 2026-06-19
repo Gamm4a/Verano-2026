@@ -46,26 +46,29 @@ public class GameController {
         return "mis-juegos";
     }
 
-    @GetMapping("/juego/nuevo")
+    @GetMapping("/juegos/nuevo")
     public String mostrarFormulario(Model model) {
         model.addAttribute("juego", new Juego());
         return "formulario";
 
     }
 
-
+/*
     @GetMapping("/juegos/nuevo")
     public String mostrarFormulario() {
         return "formulario";
     }
-
+*/
     @PostMapping("/juegos")
     public String guardarJuego(@RequestParam("titulo") String titulo, @RequestParam("descripcion") String descripcion, @RequestParam("portada") MultipartFile portada, @RequestParam("categoria") String categoria, @RequestParam("precio") Double precio) {
         Juego nuevoJuego = new Juego();
+        nuevoJuego.setUsuario(usuarioService.obtenerUsuarioLogueado());
+        System.out.println(nuevoJuego.getUsuario().toString());
         nuevoJuego.setTitulo(titulo);
         nuevoJuego.setDescripcion(descripcion);
         nuevoJuego.setPrecio(precio);
         nuevoJuego.setCategoria(categoria);
+        System.out.println(nuevoJuego.toString());
 
         juegoService.guardarJuego(nuevoJuego, portada);
         return "redirect:/juegos";
