@@ -2,6 +2,7 @@ package com.example.PokemonAPI.controller;
 
 import com.example.PokemonAPI.model.Pokemon;
 import com.example.PokemonAPI.service.PokemonService;
+import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.stereotype.Repository;
@@ -24,11 +25,9 @@ public class PokemonController {
     @GetMapping("{id}")
     public Pokemon obtenerPorId(@PathVariable Long id) {
         return pokemonService.obtenerPorId(id);
-
     }
-
     @PostMapping
-    public Pokemon crearPokemon(@RequestBody Pokemon pokemon) {
+    public Pokemon crearPokemon(@RequestBody @Valid Pokemon pokemon) {
         return pokemonService.crearPokemon(pokemon);
     }
 
@@ -36,7 +35,6 @@ public class PokemonController {
     public Pokemon actualizar(@PathVariable Long id, @RequestBody Pokemon pokemon) {
         return pokemonService.actualizarPokemonCompleto(pokemon.getId(), pokemon);
     }
-
     @PatchMapping("/actualizarParcial/{id}")
     public Pokemon actualizarParcial(@PathVariable Long id,@RequestBody Pokemon pokemon) {
         return pokemonService.actualizarPokemonParcial(pokemon.getId(), pokemon);

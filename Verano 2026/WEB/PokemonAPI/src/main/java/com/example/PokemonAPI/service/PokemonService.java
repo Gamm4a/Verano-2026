@@ -1,5 +1,6 @@
 package com.example.PokemonAPI.service;
 
+import com.example.PokemonAPI.exception.ResourceNotFoundException;
 import com.example.PokemonAPI.model.Pokemon;
 import com.example.PokemonAPI.repository.PokemonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,7 +18,8 @@ public class PokemonService {
     }
 
     public Pokemon obtenerPorId(Long id) {
-        return pokemonRepository.findById(id).orElse(null);
+
+        return pokemonRepository.findById(id).orElseThrow(() -> new ResourceNotFoundException("No se encontro el pokemon con el id"));
     }
 
     public Pokemon crearPokemon(Pokemon pokemon) {
@@ -25,7 +27,10 @@ public class PokemonService {
     }
 
     public void eliminarPokemon(Long id) {
-         pokemonRepository.deleteById(id);
+        if (!pokemonRepository.existsById(id)) {
+            throw new ResourceNotFoundException("No se encontro el pokemon para eliminarlo");
+        }
+        pokemonRepository.deleteById(id);
     }
     public Pokemon actualizarPokemonCompleto(Long id, Pokemon pokemonActualizado) {
         return pokemonRepository.findById(id).map(pokemon -> {
@@ -37,7 +42,7 @@ public class PokemonService {
             pokemon.setDescripcion(pokemonActualizado.getDescripcion());
             pokemon.setImagenUrl(pokemonActualizado.getImagenUrl());
             return pokemonRepository.save(pokemon);
-        }).orElse(null);
+        }).orElseThrow(() -> new ResourceNotFoundException("No se encontro el pokemon para editarlo"));
     }
 
     public Pokemon actualizarPokemonParcial(Long id, Pokemon pokemonParcial) {
@@ -51,7 +56,7 @@ public class PokemonService {
             if (pokemonParcial.getImagenUrl() != null) pokemon.setImagenUrl(pokemonParcial.getImagenUrl());
 
             return pokemonRepository.save(pokemon);
-        }).orElse(null);
+        }).orElseThrow(() -> new ResourceNotFoundException("No se encontro el pokemon para editarlo"));
     }
 
 
