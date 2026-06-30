@@ -1,192 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="54ec6032-f848-472e-a653-3acf4f44efc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/java/com/example/asignacion7/Asignacion7Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Asignacion7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/Carro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/Gato.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/Hicking .png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/Musica.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/comida.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/pizza.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/tacos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/teclado.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Pinterest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asignacion7/src/test/java/com/example/asignacion7/Asignacion7ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/GameVaultApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/config/AuthInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/config/CloudinaryConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/controller/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/controller/GameController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/model/Juego.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/model/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/repository/JuegoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/repository/UsuarioRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/service/JuegoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/service/UsuarioService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/static/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/static/uploads/ef8678cb-a219-47a2-8021-aefb7ec87348_WhatsApp Image 2026-06-11 at 09.00.43.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/formulario.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/fragments-demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/juegos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/layout/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/mis-juegos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/registro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault/src/test/java/com/example/GameVault/GameVaultApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/html/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/html/formulario.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/html/fragments-demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/html/juegos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/java/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/java/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/java/appication.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/java/com/example/IntroThumeleaf/IntroThumeleafApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/java/com/example/IntroThumeleaf/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/java/com/example/IntroThumeleaf/controller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/resources/templates/catalogo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/resources/templates/saludo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/test/java/com/example/IntroThumeleaf/IntroThumeleafApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/java/com/example/MiPrimerServidorWEb/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/java/com/example/MiPrimerServidorWEb/MiPrimerServidorWEbApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/FlexBox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/GridLayout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/Hobbies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/Imagenes/GAMMA_emote_final.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/prueba.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/test/java/com/example/MiPrimerServidorWEb/MiPrimerServidorWEbApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/java/com/example/NebulaMusic/NebulaMusicApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/java/com/example/NebulaMusic/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/java/com/example/NebulaMusic/controller/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/java/com/example/NebulaMusic/model/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/java/com/example/NebulaMusic/service/UsuarioService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/header-other.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/header2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/nebula-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/nebula-03.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/nebulosa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/templates/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/templates/iniciar-sesion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/templates/registro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/test/java/com/example/NebulaMusic/NebulaMusicApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/.idea/NebulaMusic_CodigoBase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/header-other.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/header2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/nebula-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/nebula-03.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/nebulosa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/user.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/iniciar-sesion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/registro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NexusAPI" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NexusAPI/src/main/java/com/example/Nexus/dto/AuthResponse.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NexusAPI/src/main/java/com/example/Nexus/dto/LoginRequest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NexusAPI/src/main/java/com/example/Nexus/security/JwtAuthFilter.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NexusAPI/src/main/java/com/example/Nexus/security/JwtService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/NexusAPI/src/main/java/com/example/Nexus/security/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/PokemonApiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/controller/PokemonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/dto/ErrorDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/exception/ResourceNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/model/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/repository/PokemonRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/service/PokemonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/test/java/com/example/PokemonAPI/PokemonApiApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticaJS/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticaJS/.idea/PracticaJS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticaJS/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticaJS/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticaJS/Practica.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub/src/main/java/com/example/ResorceHub/ResorceHubApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub/src/main/java/com/example/ResorceHub/controller/RecursoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub/src/main/java/com/example/ResorceHub/model/Recurso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub/src/main/java/com/example/ResorceHub/repository/RecursoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub/src/main/java/com/example/ResorceHub/service/RecursoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResorceHub/src/test/java/com/example/ResorceHub/ResorceHubApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web.mdj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webA1_00000248336.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webA2_00000248336.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webP1_00000248336.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NexusAPI" beforeDir="false" afterPath="$PROJECT_DIR$/NexusAPI" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NexusAPI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NexusAPI/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NexusAPI/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/NexusAPI/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NexusAPI/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/NexusAPI/target/classes/application.properties" afterDir="false" />
@@ -202,44 +30,158 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="368" />
+    <option name="cachedIndexableFilesCount" value="371" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.1630986406219908" />
+      <entry key="MS500" value="4.731987099158851" />
+      <entry key="S2" value="8.340431383362638" />
+      <entry key="S5" value="11.192302509818536" />
+      <entry key="S10" value="13.658148686080619" />
+      <entry key="S30" value="17.27294170386078" />
+      <entry key="S60" value="19.968836645449432" />
+      <entry key="M2" value="27.249771308127396" />
+      <entry key="M5" value="66.3664855457376" />
+      <entry key="M10" value="135.12956016776508" />
+      <entry key="M15" value="192.73440639497628" />
+      <entry key="M30" value="311.3699331681677" />
+      <entry key="H1" value="424.60783727481146" />
+      <entry key="H2" value="506.91634832885836" />
+      <entry key="H4" value="557.1991279732192" />
+      <entry key="D1" value="604.790851918224" />
+      <entry key="W1" value="613.5266918503394" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="9.436176292703092E-25" />
+      <entry key="MS500" value="1.566603921081541E-5" />
+      <entry key="S2" value="0.0629129141452407" />
+      <entry key="S5" value="0.3307470055278431" />
+      <entry key="S10" value="0.5751060819777887" />
+      <entry key="S30" value="0.8316029510064786" />
+      <entry key="S60" value="0.91221508294139" />
+      <entry key="M2" value="0.9832109293491897" />
+      <entry key="M5" value="1.6897128852668926" />
+      <entry key="M10" value="3.5260758088727395" />
+      <entry key="M15" value="5.1992654599250425" />
+      <entry key="M30" value="8.733234717777187" />
+      <entry key="H1" value="12.160344242973558" />
+      <entry key="H2" value="14.674664902073525" />
+      <entry key="H4" value="16.218635927236807" />
+      <entry key="D1" value="17.684886844947673" />
+      <entry key="W1" value="17.954513007024907" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.1032605774433217" />
+      <entry key="MS500" value="4.702510462341166" />
+      <entry key="S2" value="8.35014740496232" />
+      <entry key="S5" value="11.40994908160483" />
+      <entry key="S10" value="14.124662880503177" />
+      <entry key="S30" value="18.047250171137243" />
+      <entry key="S60" value="20.848604082984004" />
+      <entry key="M2" value="28.21384520407564" />
+      <entry key="M5" value="68.03577224372917" />
+      <entry key="M10" value="138.62899771452274" />
+      <entry key="M15" value="197.90400078400054" />
+      <entry key="M30" value="320.0727429067541" />
+      <entry key="H1" value="436.74414065949804" />
+      <entry key="H2" value="521.5755124949716" />
+      <entry key="H4" value="573.4089088810783" />
+      <entry key="D1" value="622.4740846763157" />
+      <entry key="W1" value="631.4809638307771" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3FsH7kF1ueSrYnvaChokuTKlfJT" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "master",
-    "javascript.preferred.runtime.type.id": "node",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.Asincrono.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.AsincronoConCallback.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.ObjetosyArreglos.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.WebP17_00000248336.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.index.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.receta.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PracticaEnClase2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.receta.js">
+    <configuration name="AsincronoConCallback.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PracticaEnClase2/AsincronoConCallback.js" working-dir="$PROJECT_DIR$/PracticaEnClase2">
+      <method v="2" />
+    </configuration>
+    <configuration name="Asincrono.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PracticaEnClase2/Asincrono.js" working-dir="$PROJECT_DIR$/PracticaEnClase2">
+      <method v="2" />
+    </configuration>
+    <configuration name="ObjetosyArreglos.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PracticaEnClase2/ObjetosyArreglos.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="WebP17_00000248336.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/WebP17_00000248336.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="receta.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PracticaEnClase2/receta.js" working-dir="$PROJECT_DIR$/PracticaEnClase2">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.receta.js" />
+        <item itemvalue="Node.js.AsincronoConCallback.js" />
+        <item itemvalue="Node.js.Asincrono.js" />
+        <item itemvalue="Node.js.ObjetosyArreglos.js" />
         <item itemvalue="Node.js.WebP17_00000248336.js" />
       </list>
     </recent_temporary>
@@ -258,7 +200,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782856693169</updated>
-      <workItem from="1782856694176" duration="29000" />
+      <workItem from="1782856694176" duration="305000" />
+      <workItem from="1782857234878" duration="760000" />
+      <workItem from="1782858882672" duration="4190000" />
     </task>
     <servers />
   </component>
