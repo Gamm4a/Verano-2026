@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54ec6032-f848-472e-a653-3acf4f44efc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/java/com/example/asignacion7/Asignacion7Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Asignacion7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/Carro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/Gato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/Hicking .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/Musica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/comida.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/pizza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/tacos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Imagenes/teclado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Pinterest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/main/resources/static/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asignacion7/src/test/java/com/example/asignacion7/Asignacion7ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/GameVaultApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/config/AuthInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/config/CloudinaryConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/controller/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/model/Juego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/model/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/repository/JuegoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/repository/UsuarioRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/service/JuegoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/java/com/example/GameVault/service/UsuarioService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/static/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/static/uploads/ef8678cb-a219-47a2-8021-aefb7ec87348_WhatsApp Image 2026-06-11 at 09.00.43.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/formulario.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/fragments-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/juegos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/layout/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/mis-juegos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/main/resources/templates/registro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault/src/test/java/com/example/GameVault/GameVaultApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/html/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/html/formulario.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/html/fragments-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/html/juegos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/java/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/java/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GameVault_CodigoBase/java/appication.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/java/com/example/IntroThumeleaf/IntroThumeleafApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/java/com/example/IntroThumeleaf/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/java/com/example/IntroThumeleaf/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/resources/templates/catalogo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/main/resources/templates/saludo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroThumeleaf/src/test/java/com/example/IntroThumeleaf/IntroThumeleafApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/java/com/example/MiPrimerServidorWEb/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/java/com/example/MiPrimerServidorWEb/MiPrimerServidorWEbApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/FlexBox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/GridLayout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/Hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/Imagenes/GAMMA_emote_final.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/prueba.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/main/resources/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWEb/src/test/java/com/example/MiPrimerServidorWEb/MiPrimerServidorWEbApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/java/com/example/NebulaMusic/NebulaMusicApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/java/com/example/NebulaMusic/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/java/com/example/NebulaMusic/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/java/com/example/NebulaMusic/model/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/java/com/example/NebulaMusic/service/UsuarioService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/header-other.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/header2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/nebula-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/nebula-03.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/nebulosa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/templates/iniciar-sesion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/main/resources/templates/registro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic/src/test/java/com/example/NebulaMusic/NebulaMusicApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/.idea/NebulaMusic_CodigoBase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/header-other.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/header2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/nebula-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/nebula-03.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/nebulosa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/imgs/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/iniciar-sesion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/registro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NebulaMusic_CodigoBase/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NexusAPI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NexusAPI/src/main/java/com/example/Nexus/dto/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NexusAPI/src/main/java/com/example/Nexus/dto/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NexusAPI/src/main/java/com/example/Nexus/security/JwtAuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NexusAPI/src/main/java/com/example/Nexus/security/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NexusAPI/src/main/java/com/example/Nexus/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/PokemonApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/controller/PokemonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/dto/ErrorDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/model/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/repository/PokemonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/service/PokemonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PokemonAPI/src/test/java/com/example/PokemonAPI/PokemonApiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticaJS/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticaJS/.idea/PracticaJS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticaJS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticaJS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticaJS/Practica.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub/src/main/java/com/example/ResorceHub/ResorceHubApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub/src/main/java/com/example/ResorceHub/controller/RecursoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub/src/main/java/com/example/ResorceHub/model/Recurso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub/src/main/java/com/example/ResorceHub/repository/RecursoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub/src/main/java/com/example/ResorceHub/service/RecursoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResorceHub/src/test/java/com/example/ResorceHub/ResorceHubApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web.mdj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webA1_00000248336.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webA2_00000248336.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webP1_00000248336.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NexusAPI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NexusAPI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NexusAPI/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/NexusAPI/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NexusAPI/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/NexusAPI/target/classes/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB" value="3FsH7kF1ueSrYnvaChokuTKlfJT" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="368" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3FsH7kF1ueSrYnvaChokuTKlfJT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="WebP17_00000248336.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/WebP17_00000248336.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.WebP17_00000248336.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54ec6032-f848-472e-a653-3acf4f44efc2" name="Changes" comment="" />
+      <created>1782856693169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782856693169</updated>
+      <workItem from="1782856694176" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
