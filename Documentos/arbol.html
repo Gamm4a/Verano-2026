@@ -1,0 +1,43 @@
+<html>
+<head>
+    <title>A simple page</title>
+</head>
+<body>
+<section>
+    <p name="parrafo1" class="parrafoBonito"><a>link</a> Un parrafo</p>
+    <p class="parrafoBonito">Segundo parrafo</p>
+</section>
+
+<section id = "section2" class="bonita">
+    <img src="">
+    <p class="parrafoBonito"></p>
+</section>
+
+    <script>
+        let secciones=document.getElementsByTagName('section');
+        console.log(secciones);
+
+        let parrafo1=document.getElementsByName('parrafo1');
+        console.log(parrafo1);
+
+        let seccion= document.getElementById("section2")
+        console.log(seccion);
+
+        let element= document.createElement("p");
+        let texto= document.createTextNode("Hola mundo, estoy creando contenido de forma dinamica");
+        element.appendChild(texto);
+        document.body.appendChild(element);
+
+        let seccionBonita= document.querySelector(".bonita");
+        console.log(seccionBonita);
+        let seccionBonita2= document.querySelector("#section2");
+        console.log(seccionBonita2);
+
+        let parrafoBonito= document.querySelectorAll(".parrafoBonito");
+        console.log(parrafoBonito);
+
+    </script>
+
+
+</body>
+</html>
