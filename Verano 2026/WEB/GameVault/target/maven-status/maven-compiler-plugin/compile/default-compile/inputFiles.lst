@@ -1,0 +1,11 @@
+/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/GameVault/src/main/java/com/example/GameVault/GameVaultApplication.java
+/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/GameVault/src/main/java/com/example/GameVault/config/CloudinaryConfig.java
+/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/GameVault/src/main/java/com/example/GameVault/config/SecurityConfig.java
+/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/GameVault/src/main/java/com/example/GameVault/config/WebConfig.java
+/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/GameVault/src/main/java/com/example/GameVault/controller/GameController.java
+/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/GameVault/src/main/java/com/example/GameVault/model/Juego.java
+/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/GameVault/src/main/java/com/example/GameVault/model/Usuario.java
+/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/GameVault/src/main/java/com/example/GameVault/repository/JuegoRepository.java
+/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/GameVault/src/main/java/com/example/GameVault/repository/UsuarioRepository.java
+/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/GameVault/src/main/java/com/example/GameVault/service/JuegoService.java
+/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/GameVault/src/main/java/com/example/GameVault/service/UsuarioService.java
