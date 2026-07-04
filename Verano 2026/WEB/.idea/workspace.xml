@@ -7,23 +7,15 @@
     <option name="selectedModelId" value="auto" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54ec6032-f848-472e-a653-3acf4f44efc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Promesas/ESModules/Estudiante.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Promesas/ESModules/Persona.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Promesas/ESModules/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Promesas/ESModules/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Promesas/clases.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Promesas/errores.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Promesas/promesas.js" afterDir="false" />
+    <list default="true" id="8a378fde-f5e8-444f-b9bb-a31907458557" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Documentos/TableroDeJira/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentos/TableroDeJira/js/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentos/TableroDeJira/js/ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentos/TableroDeJira/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentos/TableroDeJira/tablero-jira.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/nebula-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/nebula-03.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/nebulosa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/user.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokemonAPI/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/PokemonAPI/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/PokemonApiApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResorceHub/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/ResorceHub/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentos/tablero-jira.html" beforeDir="false" afterPath="$PROJECT_DIR$/Documentos/tablero-jira.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +28,14 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="319" />
+    <option name="cachedIndexableFilesCount" value="343" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -56,61 +50,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.2480739453472973" />
-      <entry key="MS500" value="2.0995204862192987" />
-      <entry key="S2" value="3.0473654833212733" />
-      <entry key="S5" value="4.475870123750042" />
-      <entry key="S10" value="6.1164949461984035" />
-      <entry key="S30" value="11.03795687126819" />
-      <entry key="S60" value="15.994011238560509" />
-      <entry key="M2" value="22.706601052998995" />
-      <entry key="M5" value="43.09569009926795" />
-      <entry key="M10" value="83.49976186248091" />
-      <entry key="M15" value="128.86726803623162" />
-      <entry key="M30" value="272.670112549077" />
-      <entry key="H1" value="484.17371100181464" />
-      <entry key="H2" value="687.0810141487397" />
-      <entry key="H4" value="832.1270354695736" />
-      <entry key="D1" value="984.4141802784454" />
-      <entry key="W1" value="1013.9668230070226" />
+      <entry key="MS100" value="0.03168623374343841" />
+      <entry key="MS500" value="0.5013938112263298" />
+      <entry key="S2" value="0.9190911986033026" />
+      <entry key="S5" value="1.6763610817834567" />
+      <entry key="S10" value="2.696799532419385" />
+      <entry key="S30" value="5.533974489859516" />
+      <entry key="S60" value="9.195111558752242" />
+      <entry key="M2" value="15.22808319242437" />
+      <entry key="M5" value="32.944009470107375" />
+      <entry key="M10" value="64.03024308521499" />
+      <entry key="M15" value="94.50790146830566" />
+      <entry key="M30" value="192.23436382083622" />
+      <entry key="H1" value="398.07569814240173" />
+      <entry key="H2" value="686.4002822808499" />
+      <entry key="H4" value="949.5865419022999" />
+      <entry key="D1" value="1277.2779367196938" />
+      <entry key="W1" value="1346.9397853127468" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="6.119150391620967E-204" />
-      <entry key="MS500" value="2.2768699503882998E-41" />
-      <entry key="S2" value="6.908388397240997E-11" />
-      <entry key="S5" value="8.948594423031895E-5" />
-      <entry key="S10" value="0.011832401397096076" />
-      <entry key="S30" value="0.43340201465566847" />
-      <entry key="S60" value="1.2059410256162968" />
-      <entry key="M2" value="2.216736762998715" />
-      <entry key="M5" value="3.9553555772470985" />
-      <entry key="M10" value="6.2595718224405665" />
-      <entry key="M15" value="8.499193552018548" />
-      <entry key="M30" value="14.561227648873441" />
-      <entry key="H1" value="22.465455525290373" />
-      <entry key="H2" value="29.639563743250687" />
-      <entry key="H4" value="34.64500607791764" />
-      <entry key="D1" value="39.830172755101344" />
-      <entry key="W1" value="40.829915777987914" />
+      <entry key="MS100" value="1.0000000001740235" />
+      <entry key="MS500" value="1.0111717577059507" />
+      <entry key="S2" value="1.32511003663712" />
+      <entry key="S5" value="1.6379874722033465" />
+      <entry key="S10" value="1.7987412926990718" />
+      <entry key="S30" value="1.9332832447263364" />
+      <entry key="S60" value="2.0578043795219783" />
+      <entry key="M2" value="2.419333480048425" />
+      <entry key="M5" value="3.531482280386638" />
+      <entry key="M10" value="5.9231683210021195" />
+      <entry key="M15" value="8.725927259763985" />
+      <entry key="M30" value="16.90294320028349" />
+      <entry key="H1" value="29.712376973176987" />
+      <entry key="H2" value="44.321820242636385" />
+      <entry key="H4" value="56.38651942798736" />
+      <entry key="D1" value="70.56303864776598" />
+      <entry key="W1" value="73.49481697824837" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0559643124439404" />
-      <entry key="MS500" value="1.951412085568139" />
-      <entry key="S2" value="2.895489259007074" />
-      <entry key="S5" value="4.262033788656302" />
-      <entry key="S10" value="5.934192631270297" />
-      <entry key="S30" value="11.327503976944708" />
-      <entry key="S60" value="17.087685077098158" />
-      <entry key="M2" value="24.841968310083377" />
-      <entry key="M5" value="46.99700483556042" />
-      <entry key="M10" value="89.71628397751984" />
-      <entry key="M15" value="137.32778192157227" />
-      <entry key="M30" value="287.1971777564704" />
-      <entry key="H1" value="506.6102412199833" />
-      <entry key="H2" value="716.6998944382885" />
-      <entry key="H4" value="866.7593512793748" />
-      <entry key="D1" value="1024.2418119303723" />
-      <entry key="W1" value="1054.7963637333582" />
+      <entry key="MS100" value="0.03491522337209322" />
+      <entry key="MS500" value="0.5263130580312768" />
+      <entry key="S2" value="1.4565883897482301" />
+      <entry key="S5" value="2.7442649345120875" />
+      <entry key="S10" value="4.0799480666408865" />
+      <entry key="S30" value="7.254725184596914" />
+      <entry key="S60" value="11.113622084099354" />
+      <entry key="M2" value="17.549143643964523" />
+      <entry key="M5" value="36.40140373219263" />
+      <entry key="M10" value="69.8834493080322" />
+      <entry key="M15" value="103.16605253308826" />
+      <entry key="M30" value="209.076820172578" />
+      <entry key="H1" value="427.73846437069096" />
+      <entry key="H2" value="730.6859553643943" />
+      <entry key="H4" value="1005.9500917781015" />
+      <entry key="D1" value="1347.8361499876025" />
+      <entry key="W1" value="1420.43388282558" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -150,6 +144,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.tablero-jira.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.Asincrono.js.executor": "Run",
     "Node.js.AsincronoConCallback.js.executor": "Run",
@@ -170,22 +166,31 @@
     "copilot.chat.legacySessionMetadata.migrated": "true",
     "git-widget-placeholder": "master",
     "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/Documentos/TableroDeJira",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Documentos/TableroDeJira" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Promesas" />
       <recent name="$PROJECT_DIR$/PracticaEnClase2/Tarea" />
       <recent name="$PROJECT_DIR$/PracticaEnClase2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.app.js">
+  <component name="RunManager" selected="JavaScript Debug.tablero-jira.html">
+    <configuration name="tablero-jira.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/WEB/Documentos/tablero-jira.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Promesas/ESModules/app.js" working-dir="$PROJECT_DIR$/Promesas/ESModules">
       <method v="2" />
     </configuration>
@@ -198,16 +203,13 @@
     <configuration name="promesas.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Promesas/promesas.js" working-dir="$PROJECT_DIR$/Promesas">
       <method v="2" />
     </configuration>
-    <configuration name="receta.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PracticaEnClase2/Tarea/receta.js" working-dir="$PROJECT_DIR$/PracticaEnClase2">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.tablero-jira.html" />
         <item itemvalue="Node.js.app.js" />
         <item itemvalue="Node.js.clases.js" />
         <item itemvalue="Node.js.promesas.js" />
         <item itemvalue="Node.js.errores.js" />
-        <item itemvalue="Node.js.receta.js" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +222,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="54ec6032-f848-472e-a653-3acf4f44efc2" name="Changes" comment="" />
+      <changelist id="8a378fde-f5e8-444f-b9bb-a31907458557" name="Changes" comment="" />
       <created>1782856693169</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -231,6 +233,9 @@
       <workItem from="1782863119989" duration="151000" />
       <workItem from="1782942879049" duration="570000" />
       <workItem from="1782943863980" duration="3920000" />
+      <workItem from="1783030762939" duration="4961000" />
+      <workItem from="1783117325591" duration="876000" />
+      <workItem from="1783118207147" duration="1254000" />
     </task>
     <servers />
   </component>
