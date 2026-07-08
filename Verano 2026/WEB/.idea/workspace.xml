@@ -8,8 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54ec6032-f848-472e-a653-3acf4f44efc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Documentos/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Documentos/arbol.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Documentos/tablero-jira.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticaJS/.idea/.gitignore 2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticaJS/.idea/modules 2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticaJS/.idea/vcs 2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Promesas/ESModules/Estudiante.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Promesas/ESModules/Persona.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Promesas/ESModules/app.js" afterDir="false" />
@@ -17,15 +21,18 @@
       <change afterPath="$PROJECT_DIR$/Promesas/clases.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Promesas/errores.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Promesas/promesas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webA1_00000248336 2.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/nebula-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/nebula-03.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/nebulosa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NebulaMusic/src/main/resources/static/imgs/user.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokemonAPI/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/PokemonAPI/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/PokemonApiApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResorceHub/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/ResorceHub/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example 2/PokemonAPI/PokemonApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example 2/PokemonAPI/PokemonApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/PokemonApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/PokemonAPI/src/main/java/com/example/PokemonAPI/PokemonApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verano 2026/WEB/MiPrimerServidorWEb/.gitattributes 2" beforeDir="false" afterPath="$PROJECT_DIR$/Verano 2026/WEB/MiPrimerServidorWEb/.gitattributes 2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verano 2026/WEB/NebulaMusic/.gitignore 2" beforeDir="false" afterPath="$PROJECT_DIR$/Verano 2026/WEB/NebulaMusic/.gitignore 2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verano 2026/WEB/NebulaMusic_CodigoBase/imgs/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Verano 2026/WEB/NebulaMusic_CodigoBase/imgs/cover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verano 2026/WEB/NebulaMusic_CodigoBase/imgs/nebula-03.png" beforeDir="false" afterPath="$PROJECT_DIR$/Verano 2026/WEB/NebulaMusic_CodigoBase/imgs/nebula-03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verano 2026/WEB/NebulaMusic_CodigoBase/imgs/nebula-03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Verano 2026/WEB/NebulaMusic_CodigoBase/imgs/nebula-03.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verano 2026/WEB/NebulaMusic_CodigoBase/imgs/nebulosa.png" beforeDir="false" afterPath="$PROJECT_DIR$/Verano 2026/WEB/NebulaMusic_CodigoBase/imgs/nebulosa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verano 2026/WEB/NebulaMusic_CodigoBase/imgs/user.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Verano 2026/WEB/NebulaMusic_CodigoBase/imgs/user.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verano 2026/WEB/PokemonAPI/src/main/java/com/example 2/PokemonAPI/PokemonApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Verano 2026/WEB/PokemonAPI/src/main/java/com/example 2/PokemonAPI/PokemonApiApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +179,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Rebasing master",
     "javascript.preferred.runtime.type.id": "node",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -190,7 +197,7 @@
       <recent name="$PROJECT_DIR$/PracticaEnClase2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.app.js">
+  <component name="RunManager">
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Promesas/ESModules/app.js" working-dir="$PROJECT_DIR$/Promesas/ESModules">
       <method v="2" />
     </configuration>
@@ -206,20 +213,11 @@
     <configuration name="receta.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/PracticaEnClase2/Tarea/receta.js" working-dir="$PROJECT_DIR$/PracticaEnClase2">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.app.js" />
-        <item itemvalue="Node.js.clases.js" />
-        <item itemvalue="Node.js.promesas.js" />
-        <item itemvalue="Node.js.errores.js" />
-        <item itemvalue="Node.js.receta.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+        <option value="bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174" />
       </set>
     </attachedChunks>
   </component>
