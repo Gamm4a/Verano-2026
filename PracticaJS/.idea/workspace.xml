@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9d2b453-b5bd-4fd1-986a-690d8d2ddd86" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ControlAnimal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlAnimal/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlAnimal/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlAnimal/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlAnimal/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlAnimal/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlAnimal/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlAnimal/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NexusAPI" beforeDir="false" afterPath="$PROJECT_DIR$/../NexusAPI" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/PracticaJS" value="3FpdD5qOac6CjtirOZs8dEsXsiL" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="3" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.2230712935265573" />
+      <entry key="MS500" value="5.367421407964794" />
+      <entry key="S2" value="11.022741294665613" />
+      <entry key="S5" value="15.028851990268361" />
+      <entry key="S10" value="22.96987895929668" />
+      <entry key="S30" value="53.87183018016575" />
+      <entry key="S60" value="79.3959562434" />
+      <entry key="M2" value="100.42124748491415" />
+      <entry key="M5" value="117.33410128344424" />
+      <entry key="M10" value="123.89840974858741" />
+      <entry key="M15" value="126.20347906711709" />
+      <entry key="M30" value="128.57004324137026" />
+      <entry key="H1" value="129.77697648562787" />
+      <entry key="H2" value="130.3864616074898" />
+      <entry key="H4" value="130.69272221211608" />
+      <entry key="D1" value="130.9487162329291" />
+      <entry key="W1" value="130.99267201147265" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.114583530160406" />
+      <entry key="MS500" value="5.2969924064238425" />
+      <entry key="S2" value="10.986368789184997" />
+      <entry key="S5" value="15.009443271846548" />
+      <entry key="S10" value="22.955802819512577" />
+      <entry key="S30" value="53.860875702021225" />
+      <entry key="S60" value="79.38759426100546" />
+      <entry key="M2" value="100.41581463531372" />
+      <entry key="M5" value="117.3315132100789" />
+      <entry key="M10" value="123.8970339860597" />
+      <entry key="M15" value="126.20254266376128" />
+      <entry key="M30" value="128.56956514406403" />
+      <entry key="H1" value="129.77673490884933" />
+      <entry key="H2" value="130.38634018016245" />
+      <entry key="H4" value="130.6926613378462" />
+      <entry key="D1" value="130.94870606483667" />
+      <entry key="W1" value="130.99267055833883" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3FpdD5qOac6CjtirOZs8dEsXsiL" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/Users/jesusgammaelsotoescalante/Documents/VERANO DEL2026/Verano-2026/Verano 2026/WEB/PracticaJS",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9d2b453-b5bd-4fd1-986a-690d8d2ddd86" name="Changes" comment="" />
+      <created>1782775822533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782775822533</updated>
+      <workItem from="1782775824075" duration="183000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
